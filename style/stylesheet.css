@@ -1,0 +1,119 @@
+h1 {
+  text-align: center;
+  font-size: 4em;
+  font-family: Helvetica, serif;
+  color: #FF0000;
+}
+
+td {
+  padding: 10px;
+}
+
+header {
+  background-color: yellow;
+}
+
+body {
+  background-color: #0c1036;
+}
+
+footer {
+  font-size: 1em;
+  font-family: Helvetica, serif;
+  color: #ffffff;
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  max-width: 1000px;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.fotos {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tekst {
+  text-align: center;
+  font-family: Helvetica, serif;
+  font-weight: bold;
+}
+
+#simca {
+  background-color: #fc5203;
+}
+
+#simca_foto {
+  background-color: #fd7535;
+}
+
+#golf {
+  background-color: #FF0000;
+  color: #ffffff;
+}
+
+#golf_foto {
+  background-color: #ff3333;
+}
+
+#renault {
+  background-color: #000000;
+  color: #ff0000;
+}
+
+#renault_foto {
+  background-color: #C0C0C0;
+}
+
+#peugeot {
+  background-color: #383734;
+  color: #C0C0C0;
+}
+
+#peugeot_foto {
+  background-color:#52514d;
+}
+
+#fiat {
+  background-color: #2767d8;
+}
+
+#fiat_foto {
+  background-color: #5286e0;#67cb8f
+}
+
+#sunbeam {
+  background-color: #1c1b1c;
+  color: #C0C0C0;
+}
+
+#sunbeam_foto {
+  background-color: #C0C0C0;
+}
+
+#alfa {
+  background-color: #41be74;
+}
+
+#alfa_foto {
+  background-color: #67cb8f;
+}
+
+#lancia {
+  background-color: #052bfa;
+  color: #C0C0C0;
+}
+
+#lancia_foto {
+  background-color: #3755fb;
+}
